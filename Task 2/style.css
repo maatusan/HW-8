@@ -1,0 +1,41 @@
+
+   .schedule-list li:hover {
+       background-color: pink;
+   }
+
+   .schedule-list li:active {
+       background-color: whitesmoke;
+   }
+
+   .schedule-list li:checked {
+    color: blueviolet;
+   }
+
+   .schedule-list li:visited {
+       color: greenyellow;
+   }
+
+   
+
+
+
+
+   .schedule-list li:first-child {
+       color: red;
+   }
+
+   .schedule-list li:last-child {
+       color: burlywood;
+   }
+
+   #second-day-of-the-week{
+       color: paleturquoise;
+   }
+
+   .schedule-list li:nth-child(4){
+       color: gold;
+   }
+
+   .schedule-list li:nth-child(3) {
+       color: brown;
+   }
